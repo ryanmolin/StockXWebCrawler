@@ -18,4 +18,4 @@
 - Size (mens/womens/toddler/gradeschool)
 
 <h4>Areas for improvement:</h4>
-- If a url does not have a style number, retail price, release date, number of sales, price premium, average sale price, or size, the information gets printed as an error with the URL and does not store the information.
+- If a url does not have a style number, retail price, release date, number of sales, price premium, average sale price, and size, the information gets printed as an error with the URL and does not store the information.
