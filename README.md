@@ -1,7 +1,7 @@
 # StockXWebCrawler
 <h3>A web crawler for a live marketplace for buying and selling limited edition sneakers, watches, handbags, and streetwear.</h2>
 
-<p>Stores information in a xlsx excel spreadsheet.</p>
+<p>Stores information in a xlsx excel worksheet.</p>
 <h4>Information Gathered:</h4>
 - Brand
 - Edition
